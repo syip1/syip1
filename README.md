@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syip1
 - 👀 I’m interested in mathematics, data science, and books
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning reinforcement learning, and general machine learning stuff.
+- 💞️ I’m looking to collaborate on anything related to mathematics or programming, especially things related to music.
 - 📫 How to reach me: shermanyip2015@gmail.com
 
 <!---
